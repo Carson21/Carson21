@@ -1,3 +1,3 @@
-#Hello, my name is Carson Keavney
-- 🔭 I’m currently working on a Financial / Budgeting Website and App
-- 📫 How to reach me: carsonkeavney@yahoo.com
+<h1>Hello 👋</h1>
+<ul>- 🔭 I’m currently working on a Financial / Budgeting Website and App</ul>
+<ul>- 📫 How to reach me: carsonkeavney@yahoo.com</ul>
