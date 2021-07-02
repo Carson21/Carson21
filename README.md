@@ -1,3 +1,3 @@
 # Hello 👋
-* 🔭 I’m currently working on a Crypto Portfolio Tracker
+* 🔭 I’m currently working on a Notes App
 * 📫 How to reach me: carsonkeavney@outlook.com
